@@ -1,0 +1,15 @@
+{
+    "name": "CMS INfo",
+    "blocks": {
+        "/blockchain/polygon": true,
+        "/blockchain/polygon/solidity": true,
+        "/framework/vanilla": true,
+        "/category/collection/core-entity": true,
+        "/category/access_control/core-administrator_role": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "CMS info",
+        "/category/asset_value_tracking/core-token/symbol": "CMSi",
+        "/category/asset_value_tracking/core-token/decimals": "10",
+        "/category/asset_value_tracking/core-token/supply": "10000000"
+    }
+}
